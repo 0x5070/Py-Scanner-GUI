@@ -33,3 +33,13 @@ Una interfaz gráfica (GUI) profesional para **Nmap** desarrollada en Python uti
 Este proyecto fue desarrollado exclusivamente con fines educativos y de seguridad ética. El autor no se hace responsable del mal uso de esta herramienta.
 
 This project was developed for educational and ethical security purposes only. The author is not responsible for any misuse of this tool.
+
+---
+
+## Licencia / License
+
+**GNU General Public License v3.0 (GPL-3.0).**
+
+Este proyecto se distribuye bajo los términos de la licencia GNU GPL-3.0. Consulta el archivo [LICENSE](LICENSE) para leer el texto completo.
+
+This project is distributed under the terms of the GNU GPL-3.0. See the [LICENSE](LICENSE) file for the complete license text.
